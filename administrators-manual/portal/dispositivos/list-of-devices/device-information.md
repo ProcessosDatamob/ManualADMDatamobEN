@@ -20,24 +20,22 @@ The date shown in **Last Update** in the upper-right corner of the Device Inform
 * **Non-Compliance Report**
 {% endhint %}
 
-
-
 Below, we will detail the information contained in each of the fields in the images above:
 
 ### Details
 
-* User - name of the user registered on the portal;&#x20;
-* ID - ID registered for the device; Phone - phone number;&#x20;
+* User - name of the user registered on the portal;
+* ID - ID registered for the device; Phone - phone number;
 * Group - group registered for the device;
 * Department - This is a free text field, meaning the administrators can type anything they wish. It indicates the unit or department of the organization to which the device is assigned.
 * User Phone - This is a free text field, meaning the administrators can type anything they wish. It indicates the phone number associated with the user of the device.
-* IMEI - internal and unique number for each device. In Android 10 it is no longer possible to capture this information from the device because we use another method to receive this information with URL Enrichment; UDID - Apple ID, the device's unique identifier number;&#x20;
+* IMEI - internal and unique number for each device. In Android 10 it is no longer possible to capture this information from the device because we use another method to receive this information with URL Enrichment; UDID - the device's unique identifier number;
 * ICCID - SIM chip number; Model - device model;
-* Serial Number - device serial number;&#x20;
+* Serial Number - device serial number;
 * License - License number;
-* Model - device model;&#x20;
-* Manufacturer - name of the device manufacturer;&#x20;
-* Operating System - device operating system;&#x20;
+* Model - device model;
+* Manufacturer - name of the device manufacturer;
+* Operating System - device operating system;
 * Android Version - device Android version;
 *   Temporary Access Password - this temporary password is generated when the "Temporary Device Access" configuration is activated in Kiosk Mode. The password should be provided to the device user and will be updated on the portal every 5 minutes, with the option to copy it and display the remaining time until the password expires.
 
@@ -54,8 +52,7 @@ Below, we will detail the information contained in each of the fields in the ima
 * Applied Policy Version: version of the policy.
 * Policy Synchronization Date: displays the date of the policy synchronization.
 * Compliance: indicates whether the device adheres to all assigned policy settings. If any setting has not been applied, the value for this option will be "No".
-*   Last Communication Date: displays the date when the device last communicated with the portal.\
-
+*   Last Communication Date: displays the date when the device last communicated with the portal.\\
 
     The data updated in the portal when the **Last Communication Date** is refreshed includes:
 
