@@ -1,0 +1,28 @@
+# Release Notes \<NomeProduto> V 6.0.0
+
+### Version Highlights
+
+1. [Audit of Policy Creation, Copy, and Deletion](auditing-of-creation-copying-and-deletion-of-policies.md)
+2. [Export of Non-Compliance Report](export-of-non-compliance-report.md)
+3. [Change of New User Password via Link](change-of-new-user-password-via-link.md)
+4. [System App Filters in Kiosk Mode](system-app-filters-in-kiosk-mode.md)
+5. [New Registration Filters in Audit](new-registration-filters-in-audit.md)
+6. [Font Color Configuration for Icons in Kiosk Mode](icon-font-color-configuration-in-kiosk-mode.md)
+7. [Advanced Filters on Device Screen](advanced-filters-on-the-devices-screen.md)
+8. [Device Screen Orientation Configuration in Kiosk Mode](device-screen-orientation-configuration-in-kiosk-mode.md)
+9. [Last Communication Date Information](last-communication-date-information.md)
+10. [Wallpaper Image Layout Configuration in Kiosk Mode](wallpaper-image-layout-configuration-in-kiosk-mode.md)
+11. [Batch Creation of Device Groups](batch-creation-of-device-groups.md)
+12. [Wi-Fi Configuration in Kiosk Mode](wi-fi-configuration-in-kiosk-mode.md)
+13. [Access to Online Support Manual](access-to-online-support-manual.md)
+14. [Icon Sorting Configuration](icon-sorting-configuration.md)
+15. [New Column with "Package Name" Information](new-column-with-package-name-information.md)
+16. [Font and Icon Size Configuration](font-and-icon-size-configuration.md)
+17. [Manual Inclusion of System Applications](manual-inclusion-of-system-applications.md)
+18. [More Information in the Companion App](more-information-in-the-companion-app.md)
+19. [Two-Factor Authentication (MFA) Request](request-for-two-factor-authentication-mfa-will-be-hidden-in-this-version.md) (Will be hidden in this version)
+20. [Companion Version Information](companion-version-information.md)
+21. [Portal User Session Expiration (MFA)](user-portal-session-expiration-mfa.md)
+22. [New Filter and Column for "Management Mode"](new-filter-and-column-for-management-mode.md)
+23. [Account Lock Change by Domain](account-lock-change-by-domain.md)
+24. [New Access to Device Information](new-access-to-device-information.md)

@@ -1,0 +1,3 @@
+# New Fields and Filters for Device Identification
+
+In the "Device List" menu, under the "Manage" option, new features have been added that allow for detailed information to be entered for each device. The system now displays the Department and User Phone fields, which are free text, allowing administrators to enter any text, providing more comprehensive and organized device management. The Department and User Phone information have been added to the initial "Device List" screen. By clicking ">", you can view these details. These new configurations facilitate the classification and management of devices, providing a more complete and organized view of the information.

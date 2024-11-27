@@ -1,0 +1,25 @@
+# Release Notes \<NomeProduto> V 13.0.0
+
+### Version Highlights
+
+1. [New Managed Setting to make the Schedule Alarms Permission Optional](new-managed-setting-to-make-the-schedule-alarms-permission-optional.md)
+2. [Status of the Schedule Alarms Permission](status-of-the-schedule-alarms-permission.md)
+3. [Added Commands and Actions in "Manage Device"](added-commands-and-actions-in-manage-device.md)
+4. [Updated Layout of Device Information](updated-layout-of-device-information.md)
+5. [Added Geolocation Tab in Device Management](added-geolocation-tab-in-device-management.md)
+6. [Moved Non-Conformity Report to "Manage" Option](moved-non-conformity-report-to-manage-option.md)
+7. [Restart SIM Lock](restart-sim-lock.md)
+8. [Added Quick Access Link to Policy Settings Screen](added-quick-access-link-to-policy-settings-screen.md)
+9. [New "SIM" Section and eSIM Information on Device](new-sim-section-and-esim-information-on-device.md)
+10. [Column Filter to Customize Device List](column-filter-to-customize-device-list.md)
+11. [More Complete Hardware Information](more-complete-hardware-information.md)
+12. [Device Lock by Mobile Data Limit](device-lock-by-mobile-data-limit.md)
+13. [Security Enhancement: Password Complexity Rules](security-enhancement-password-complexity-rules.md)
+14. [New Feature: Google Play Protect Verification Setting](new-feature-google-play-protect-verification-setting.md)
+15. [Control of Wallpaper Change](control-of-wallpaper-change.md)
+16. [New Total Data Usage Graph](new-total-data-usage-graph.md)
+17. [Wi-Fi Consumption Data Added to Applications Graph](wi-fi-consumption-data-added-to-applications-graph.md)
+18. [Wi-Fi Consumption Data Added to User Graph](wi-fi-consumption-data-added-to-user-graph.md)
+19. [New Wi-Fi Consumption Tab Added to Consumption Report](new-wi-fi-consumption-tab-added-to-consumption-report.md)
+20. [Application Consumption Report Now Includes Wi-Fi Data](application-consumption-report-now-includes-wi-fi-data.md)
+21. [Adjustments and Corrections for Version - V 13.0.0](adjustments-and-corrections-for-version-v-13.0.0.md)
