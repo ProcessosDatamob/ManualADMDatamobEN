@@ -14,7 +14,7 @@ To view or change company data, follow the steps below:
 
 ### Delete Company <a href="#id-2grqrue" id="id-2grqrue"></a>
 
-On the Company Information screen, you can delete the company using the "**Delete Company**" button, located next to the "Update" button.&#x20;
+On the Company Information screen, you can delete the company using the "**Delete Company**" button, located next to the "Update" button.
 
 This action leads to the deletion of the company's Google Play Managed account, the deletion of all registered devices and all policies and information.
 
@@ -28,36 +28,3 @@ The screen below appears when you click on "**Delete Company**".
 
 <figure><img src="../../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
-### Apple Business Manager <a href="#id-2grqrue" id="id-2grqrue"></a>
-
-Step by step to obtain the content token
-
-1. User registration in ABM (Apple Business Manager):&#x20;
-
-* Log in to ABM with administrator credentials;
-* Navigate to the "**Users**" section;
-* Add users, providing essential information such as name, e-mail address and role.
-
-2. Customer approval of applications in ABM:&#x20;
-
-* In ABM, go to the Apps & Books section
-* Find and select applications
-* Approve selected applications
-
-3. Download and Install **Datamob Enterprise** Profile on Devices via Apple Configurator (via Cable):&#x20;
-
-* Connect the devices to the computers using a USB cable
-* Open Apple Configurator and import the **Datamob Enterprise** profile&#x20;
-* Apply the profile to the connected devices, ensuring that the appropriate settings are implemented
-
-4. Insertion of the Content Token in the Administrator Portal:
-
-* Log in to ABM with administrator credentials
-* Navigate to the "Preferences > Payments and Charges" section
-* Download the ABM Content Token
-* Open the downloaded file and copy the "Content token"
-
-Insert the Content Token in the Administrator **Datamob Enterprise** Portal :
-
-5. Enter the content token copied from the downloaded file in the "Content Token" field;
-6. Click on "Update" to save the company information.
